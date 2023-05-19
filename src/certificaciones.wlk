@@ -1,4 +1,4 @@
-class Certificaciones {
+class Certificacion {
 	var property puntos
 	const property esProducto
 }
